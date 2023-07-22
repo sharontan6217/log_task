@@ -12,7 +12,12 @@ cp interview_data_set.gz ./log/interview_data_set.gz
 #echo $inputDir > input_dir.txt
 
 #sleep
-
+pip install pandas
+pip install re
+pip install os
+pip install gzip
+pip install json
+pip install numpy
 
 
 python log_analysis_bash.py

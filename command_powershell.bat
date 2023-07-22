@@ -12,6 +12,13 @@ echo %inputDir% > input_dir.txt
 
 pause
 
+pip install pandas
+pip install re
+pip install os
+pip install gzip
+pip install json
+pip install numpy
+
 
 python log_analysis.py
 
