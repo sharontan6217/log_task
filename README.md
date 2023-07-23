@@ -1,6 +1,6 @@
 # log_task
 
-This is to provide a possible solution for the task assigned by https://github.com/scdt-china/interview-assignments/tree/master/it-support-engineer
+This is to provide a possible solution for the task of log analysis.
 
 The steps to run the task include:
 1. clone the repository
